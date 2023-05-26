@@ -1,0 +1,23 @@
+{
+  "name": "user-service",
+  "version": "1.0.0",
+  "description": "Handles User Related Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlobalChat/user-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlobalChat/user-service/issues"
+  },
+  "homepage": "https://github.com/GlobalChat/user-service#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.1"
+  }
+}
